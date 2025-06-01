@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: monophase # See github page: https://github.com/zivhub/monophase
+theme: minima # See github page: https://github.com/zivhub/monophase
 plugins:
   - jekyll-feed
   - jekyll-archives
