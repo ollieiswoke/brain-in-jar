@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About
+title: 🧠 brain in jar 🫙
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### who are you?
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+i'm ollie, a software engineer and music person.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### what is this for?
 
+i'll be using this blog to post my opinions and theories about music. 
 
-[jekyll-organization]: https://github.com/jekyll
+i've been making music for over 10 years, and I think I may have genuinely new(!?) insight into things. I need them to be documented somewhere... brain in jar 🧠➡️🫙.
+
+--- 
+
+<img src="{{site.url}}/assets/img/crazed.jpeg">
+
+*"Morty, i have uploaded my consciousness to the cloud using freemium web hosting services."*

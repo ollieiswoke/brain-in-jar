@@ -1,9 +1,6 @@
-- title: Email
-  url: mailto:zivmsg@gmail.com
-  icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/zivtwt
-  icon: fab fa-twitter
+- title: Spotify
+  url: https://open.spotify.com/artist/4YrZTJmrwvUhUWGAsohGgQ
+  icon: fab fa-spotify
 - title: GitHub
-  url: https://github.com/zivhub
+  url: https://github.com/ollieiswoke
   icon: fab fa-github
